@@ -1,0 +1,3 @@
+ubuntu16.04:
+默认为nano，想修改为vim，使用如下命令：
+git config --global core.editor vim
